@@ -10,7 +10,7 @@ function OrdersPage() {
     if (!userId) return;
 
     axios
-      .get(`http://localhost:4001/orders/${userId}`)
+      .get(`http://localhost:4001/orders/user/${userId}`)
       .then((res) => setOrders(res.data))
       .catch((err) => console.error("Failed to load orders:", err));
   }, [userId]);
