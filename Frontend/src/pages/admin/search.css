@@ -1,0 +1,25 @@
+/* Style for the search container */
+.search-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+  }
+  
+  /* Style for the search input */
+  .search-input {
+    padding: 8px;
+    border: 1px solid rgb(12 74 110);
+    border-radius: 4px;
+    width: 500px;
+    background-color:rgb(255, 255, 255);
+    margin-right: 8px;
+    font-size: 14px;
+    transition: box-shadow 0.3s ease;
+  }
+
+  .search-input:hover{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  /* Style for the search button */
+  
