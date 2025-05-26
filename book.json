@@ -1,0 +1,893 @@
+[
+    {
+        "name": "The Art of Not Overthinking",
+        "price": 99,
+        "category": "Self-help",
+        "image": "https://99bookstores.com/cdn/shop/files/51oZWWrslKL._SL1200.jpg?v=1729511696&width=533",
+        "title": "Mastering Clarity in a Noisy World",
+        "count": 12,
+        "outOfStock": false
+    },
+    {
+        "name": "Attitude is Everything",
+        "price": 99,
+        "category": "Self-help",
+        "image": "https://99bookstores.com/cdn/shop/products/710jnzkldtl-ac-uy218.jpg?v=1697477096&width=533",
+        "title": "Change Your Attitude, Change Your Life",
+        "count": 8,
+        "outOfStock": false
+    },
+    {
+        "name": "Don't Believe Everything You Think",
+        "price": 99,
+        "category": "Self-help",
+        "image": "https://99bookstores.com/cdn/shop/files/61JBP785g1L.jpg?v=1729067651&width=533",
+        "title": "How to Rewire Negative Thought Patterns",
+        "count": 15,
+        "outOfStock": false
+    },
+    {
+        "name": "Ikigai",
+        "price": 99,
+        "category": "Self-help",
+        "image": "https://99bookstores.com/cdn/shop/files/20391a21-7338-4c78-9dee-2e09e4d6c7ef.jpg?v=1699770152&width=533",
+        "title": "The Japanese Secret to a Long and Happy Life",
+        "count": 20,
+        "outOfStock": false
+    },
+    {
+        "name": "Dopamine Detox",
+        "price": 99,
+        "category": "Self-help",
+        "image": "https://99bookstores.com/cdn/shop/files/de954bbd-cd38-4a49-9337-bc26c90376ae.jpg?v=1697631283&width=533",
+        "title": "Reclaim Focus and Motivation",
+        "count": 10,
+        "outOfStock": false
+    },
+    {
+        "name": "Rich Dad Poor Dad",
+        "price": 139,
+        "category": "Self-help",
+        "image": "https://99bookstores.com/cdn/shop/files/fe666c65-7168-4ecf-bf46-8be0691103cb.jpg?v=1697611857&width=533",
+        "title": "What the Rich Teach Their Kids",
+        "count": 25,
+        "outOfStock": false
+    },
+    {
+        "name": "Secret by Rhonda Byrne",
+        "price": 99,
+        "category": "Self-help",
+        "image": "https://99bookstores.com/cdn/shop/files/35d33050-2b88-41d0-a3d4-7813b068af58.jpg?v=1697631364&width=533",
+        "title": "The Law of Attraction",
+        "count": 18,
+        "outOfStock": false
+    },
+    {
+        "name": "Atomic Habits",
+        "price": 179,
+        "category": "Self-help",
+        "image": "https://99bookstores.com/cdn/shop/files/91bYsX41DVL._SL1500.jpg?v=1698414556&width=533",
+        "title": "Tiny Changes, Remarkable Results",
+        "count": 30,
+        "outOfStock": false
+    },
+    {
+        "name": "The Psychology of Money",
+        "price": 159,
+        "category": "Self-help",
+        "image": "https://99bookstores.com/cdn/shop/files/2637d927-4b12-4316-9b2d-7901caa2783d.jpg?v=1698238143&width=533",
+        "title": "Timeless Lessons on Wealth and Happiness",
+        "count": 22,
+        "outOfStock": false
+    },
+    {
+        "name": "Eat That Frog",
+        "price": 119,
+        "category": "Self-help",
+        "image": "https://99bookstores.com/cdn/shop/files/61ZNAnIrwwL._SL1000.jpg?v=1698471170&width=533",
+        "title": "21 Great Ways to Stop Procrastinating",
+        "count": 14,
+        "outOfStock": false
+    },
+    {
+        "name": "Man's Search for Meaning",
+        "price": 119,
+        "category": "Self-help",
+        "image": "https://99bookstores.com/cdn/shop/files/download-2024-05-18T002046.098.jpg?v=1715971880&width=533",
+        "title": "Finding Purpose in Suffering",
+        "count": 16,
+        "outOfStock": false
+    },
+    {
+        "name": "The Subtle Art of Not Giving a F*ck",
+        "price": 149,
+        "category": "Self-help",
+        "image": "https://99bookstores.com/cdn/shop/files/71t4GuxLCuL._SL1500.jpg?v=1698414663&width=533",
+        "title": "Counterintuitive Approach to Living",
+        "count": 28,
+        "outOfStock": false
+    },
+    {
+        "name": "Life's Amazing Secret",
+        "price": 149,
+        "category": "Self-help",
+        "image": "https://99bookstores.com/cdn/shop/files/25eeb9d2-3be0-4601-8a6f-84815380461c.jpg?v=1697612006&width=533",
+        "title": "Discovering Balance and Purpose",
+        "count": 11,
+        "outOfStock": false
+    },
+    {
+        "name": "48 Laws of Power",
+        "price": 299,
+        "category": "Self-help",
+        "image": "https://99bookstores.com/cdn/shop/files/the-48-laws-of-power-original-imafuxg2wfqe2xvm.jpg?v=1697566601&width=533",
+        "title": "Strategies for Power and Influence",
+        "count": 19,
+        "outOfStock": false
+    },
+    {
+        "name": "The Power of Your Subconscious Mind",
+        "price": 149,
+        "category": "Self-help",
+        "image": "https://99bookstores.com/cdn/shop/products/9788193883426.jpg?v=1697477698&width=533",
+        "title": "Harness the Power Within",
+        "count": 17,
+        "outOfStock": false
+    },
+    {
+        "name": "Make Your Bed",
+        "price": 119,
+        "category": "Self-help",
+        "image": "https://99bookstores.com/cdn/shop/files/e2112575-0115-4e5f-b274-75d570690534.jpg?v=1698214235&width=533",
+        "title": "Small Habits That Change Life",
+        "count": 13,
+        "outOfStock": false
+    },
+    {
+        "name": "Don't Sweat the Small Stuff",
+        "price": 179,
+        "category": "Self-help",
+        "image": "https://99bookstores.com/cdn/shop/files/71ojNg67YmL._SL1500.jpg?v=1727757246&width=533",
+        "title": "And It's All Small Stuff",
+        "count": 21,
+        "outOfStock": false
+    },
+    {
+        "name": "How to Win Friends & Influence People",
+        "price": 149,
+        "category": "Self-help",
+        "image": "https://99bookstores.com/cdn/shop/files/71yttlvpxrl.jpg?v=1698475983&width=533",
+        "title": "Timeless People Skills",
+        "count": 24,
+        "outOfStock": false
+    },
+    {
+        "name": "The 5 AM Club",
+        "price": 199,
+        "category": "Self-help",
+        "image": "https://99bookstores.com/cdn/shop/products/1-73950319-babe-4739-b27b-151c27fbb83d.jpg?v=1697477725&width=533",
+        "title": "Own Your Morning, Elevate Your Life",
+        "count": 26,
+        "outOfStock": false
+    },
+    {
+        "name": "Do It Today",
+        "price": 119,
+        "category": "Self-help",
+        "image": "https://99bookstores.com/cdn/shop/files/4210ebc2-342f-4683-ac43-3b41c1001f01.jpg?v=1698215947&width=533",
+        "title": "Overcome Procrastination, Improve Productivity",
+        "count": 9,
+        "outOfStock": false
+    },
+    {
+        "name": "Think and Grow Rich",
+        "price": 149,
+        "category": "Self-help",
+        "image": "https://99bookstores.com/cdn/shop/products/screenshot-2023-02-07-024622.jpg?v=1697477109&width=533",
+        "title": "#Trending Classic on Wealth",
+        "count": 27,
+        "outOfStock": false
+    },
+    {
+        "name": "Can't Hurt Me",
+        "price": 199,
+        "category": "Self-help",
+        "image": "https://99bookstores.com/cdn/shop/files/613_WUG7CGL._SL1360.jpg?v=1698478351&width=533",
+        "title": "Master Your Mind and Defy the Odds",
+        "count": 23,
+        "outOfStock": false
+    },
+    {
+        "name": "You Become What You Think",
+        "price": 179,
+        "category": "Self-help",
+        "image": "https://99bookstores.com/cdn/shop/files/81WYPSP-ngL._SL1500.jpg?v=1715203215&width=533",
+        "title": "Insights to Level Up Your Life",
+        "count": 15,
+        "outOfStock": false
+    },
+    {
+        "name": "Mindset: The New Psychology of Success",
+        "price": 179,
+        "category": "Self-help",
+        "image": "https://99bookstores.com/cdn/shop/files/61y1U-lPl5L._SL1500.jpg?v=1698242228&width=533",
+        "title": "Unlocking Human Potential",
+        "count": 20,
+        "outOfStock": false
+    },
+    {
+        "name": "Thinking, Fast and Slow",
+        "price": 219,
+        "category": "Self-help",
+        "image": "https://99bookstores.com/cdn/shop/files/71m_kC4vOxL._SL1500.jpg?v=1698240604&width=533",
+        "title": "Understanding Two Systems of Thought",
+        "count": 18,
+        "outOfStock": false
+    },
+    {
+        "name": "The Diary of a CEO",
+        "price": 199,
+        "category": "Self-help",
+        "image": "https://99bookstores.com/cdn/shop/files/6c8d16a3-1e45-4f2c-a394-ddf5c5ff017a.jpg?v=1698292196&width=533",
+        "title": "33 Laws of Business and Life",
+        "count": 14,
+        "outOfStock": false
+    },
+    {
+        "name": "Zero to One",
+        "price": 179,
+        "category": "Self-help",
+        "image": "https://99bookstores.com/cdn/shop/files/71doP_hSREL._SL1302.jpg?v=1698241122&width=533",
+        "title": "Notes on Startups and the Future",
+        "count": 16,
+        "outOfStock": false
+    },
+    {
+        "name": "Think Like a Monk",
+        "price": 199,
+        "category": "Self-help",
+        "image": "https://99bookstores.com/cdn/shop/files/1-6b786ea1-6a91-4c85-8cbe-3f5852395ec8.jpg?v=1698239236&width=533",
+        "title": "Train Your Mind for Peace and Purpose",
+        "count": 22,
+        "outOfStock": false
+    },
+    {
+        "name": "Good Vibes, Good Life",
+        "price": 149,
+        "category": "Self-help",
+        "image": "https://99bookstores.com/cdn/shop/files/317mio5y0as-6ecd819f-8c38-4046-ad97-34f5a6d7ebd2.jpg?v=1698239542&width=533",
+        "title": "Unlocking Your Greatness",
+        "count": 13,
+        "outOfStock": false
+    },
+    {
+        "name": "King of Envy by Ana Huang",
+        "price": 249,
+        "category": "Self-help",
+        "image": "https://99bookstores.com/cdn/shop/files/81yU8BuA75L._SL1500.jpg?v=1746208717&width=533",
+        "title": "Twisted Secrets of the Rich and Reckless",
+        "count": 11,
+        "outOfStock": false
+    },
+    {
+        "name": "A Court of Thorns and Roses Paperback Box Set",
+        "price": 1399,
+        "category": "Romance",
+        "image": "https://99bookstores.com/cdn/shop/products/810Wt_FaYsL._AC_UY327_FMwebp_QL65.webp?v=1698427617&width=533",
+        "title": "Fantasy Romance Saga by Sarah J. Maas",
+        "count": 5,
+        "outOfStock": false
+    },
+    {
+        "name": "Onyx Storm by Rebecca Yarros",
+        "price": 349,
+        "category": "Romance",
+        "image": "https://99bookstores.com/cdn/shop/files/91rcGxdclIL._SL1500.jpg?v=1737795337&width=533",
+        "title": "Book 3 in The Empyrean Series",
+        "count": 8,
+        "outOfStock": false
+    },
+    {
+        "name": "The Syndicater by RuNyx",
+        "price": 219,
+        "category": "Romance",
+        "image": "https://99bookstores.com/cdn/shop/files/81AgCCSoFDL._SL1500.jpg?v=1732207335&width=533",
+        "title": "Dark Mafia Romance",
+        "count": 10,
+        "outOfStock": false
+    },
+    {
+        "name": "I Don't Love You Anymore",
+        "price": 139,
+        "category": "Romance",
+        "image": "https://99bookstores.com/cdn/shop/files/WhatsAppImage2024-05-01at3.49.29PM.jpg?v=1714558933&width=533",
+        "title": "I Don't Love You Anymore",
+        "count": 15,
+        "outOfStock": false
+    },
+    {
+        "name": "Thank You for Leaving by Rithvik Singh",
+        "price": 199,
+        "category": "Romance",
+        "image": "https://99bookstores.com/cdn/shop/files/71cq_N7eYeL._SL1500.jpg?v=1739787853&width=533",
+        "title": "Poetic Reflections on Love and Loss",
+        "count": 9,
+        "outOfStock": false
+    },
+    {
+        "name": "The Striker by Ana Huang",
+        "price": 299,
+        "category": "Romance",
+        "image": "https://99bookstores.com/cdn/shop/files/81dB5vl0DiL._SL1500.jpg?v=1730140185&width=533",
+        "title": "Steamy Sports Romance",
+        "count": 7,
+        "outOfStock": false
+    },
+    {
+        "name": "It Starts with Us + It Ends with Us Combo",
+        "price": 349,
+        "category": "Romance",
+        "image": "https://99bookstores.com/cdn/shop/files/WhatsAppImage2024-05-04at5.13.48PM.jpg?v=1714823085&width=533",
+        "title": "Colleen Hoover Combo Set",
+        "count": 6,
+        "outOfStock": false
+    },
+    {
+        "name": "Too Good to Be True by Prajakta Koli",
+        "price": 199,
+        "category": "Romance",
+        "image": "https://99bookstores.com/cdn/shop/files/81pGO40uexL._SL1500.jpg?v=1739276229&width=533",
+        "title": "A Refreshing Contemporary Love Story",
+        "count": 11,
+        "outOfStock": false
+    },
+    {
+        "name": "Can we be strangers again",
+        "price": 149,
+        "category": "Romance",
+        "image": "https://99bookstores.com/cdn/shop/files/61EvLCxdXWL._SL1200.jpg?v=1738838885&width=533",
+        "title": "Heartfelt Story of Rekindling Bonds",
+        "count": 14,
+        "outOfStock": false
+    },
+    {
+        "name": "The Forty Rules of Love by Elif Shafak",
+        "price": 179,
+        "category": "Romance",
+        "image": "https://99bookstores.com/cdn/shop/files/91Q4lLuogQL._SL1500.jpg?v=1700726221&width=533",
+        "title": "A Journey of Spiritual and Romantic Love",
+        "count": 16,
+        "outOfStock": false
+    },
+    {
+        "name": "The Palace of Illusion",
+        "price": 179,
+        "category": "Romance",
+        "image": "https://99bookstores.com/cdn/shop/products/1-4a3d34df-17a2-4ad9-8d05-fd67296bd7ea.jpg?v=1697478878&width=533",
+        "title": "A Retelling of the Mahabharata Through Draupadi",
+        "count": 13,
+        "outOfStock": false
+    },
+    {
+        "name": "Verity by Colleen Hoover",
+        "price": 149,
+        "category": "Romance",
+        "image": "https://99bookstores.com/cdn/shop/products/91868k2_gUL._AC_UY327_FMwebp_QL65.webp?v=1698428122&width=533",
+        "title": "A Gripping Romantic Thriller",
+        "count": 18,
+        "outOfStock": false
+    },
+    {
+        "name": "The Seven Husbands of Evelyn Hugo",
+        "price": 199,
+        "category": "Romance",
+        "image": "https://99bookstores.com/cdn/shop/products/71ZvnK_4JiL._AC_UY327_FMwebp_QL65.webp?v=1698428046&width=533",
+        "title": "Glamorous Tale of Love and Secrets",
+        "count": 20,
+        "outOfStock": false
+    },
+    {
+        "name": "Ugly Love by Colleen Hoover",
+        "price": 179,
+        "category": "Romance",
+        "image": "https://99bookstores.com/cdn/shop/products/71E8VNPC1dL._AC_UY327_FMwebp_QL65.webp?v=1698428114&width=533",
+        "title": "Intense Love Story of Pain and Passion",
+        "count": 15,
+        "outOfStock": false
+    },
+    {
+        "name": "8 Rules of Love by Jay Shetty",
+        "price": 199,
+        "category": "Romance",
+        "image": "https://99bookstores.com/cdn/shop/files/c0367908-5ee9-4549-93b6-7b0315910b4f.jpg?v=1698239067&width=533",
+        "title": "A Guide to Finding and Keeping Love",
+        "count": 12,
+        "outOfStock": false
+    },
+    {
+        "name": "You've Reached Sam by Dustin Thao",
+        "price": 179,
+        "category": "Romance",
+        "image": "https://99bookstores.com/cdn/shop/products/81nDofCiQ5L._AC_UY327_FMwebp_QL65.webp?v=1698428157&width=533",
+        "title": "A Moving YA Romance with a Supernatural Twist",
+        "count": 9,
+        "outOfStock": false
+    },
+    {
+        "name": "Love Redesigned by Lauren Asher",
+        "price": 249,
+        "category": "Romance",
+        "image": "https://99bookstores.com/cdn/shop/files/WhatsAppImage2024-05-20at10.49.55AM_2.jpg?v=1716220414&width=533",
+        "title": "Contemporary Love and Career Clash",
+        "count": 10,
+        "outOfStock": false
+    },
+    {
+        "name": "Twisted Series 4 books Combo by Ana Huang",
+        "price": 799,
+        "category": "Romance",
+        "image": "https://99bookstores.com/cdn/shop/products/71C6QfedlKL._AC_UY327_FMwebp_QL65.webp?v=1698428109&width=533",
+        "title": "A Spicy Romance Series",
+        "count": 4,
+        "outOfStock": false
+    },
+    {
+        "name": "Mahagatha: 100 Tales from the Puranas",
+        "price": 199,
+        "category": "Mythology",
+        "image": "https://99bookstores.com/cdn/shop/files/a1nqcpdk9ul.jpg?v=1697652054&width=533",
+        "title": "Epic Stories from the Indian Puranas",
+        "count": 15,
+        "outOfStock": false
+    },
+    {
+        "name": "Aghori - An Untold Story",
+        "price": 149,
+        "category": "Mythology",
+        "image": "https://99bookstores.com/cdn/shop/files/71YbHWfpp9L._SL1200.jpg?v=1701097295&width=533",
+        "title": "Mysterious Tales of Aghori Sadhus",
+        "count": 12,
+        "outOfStock": false
+    },
+    {
+        "name": "RAM by Amish",
+        "price": 179,
+        "category": "Mythology",
+        "image": "https://99bookstores.com/cdn/shop/files/1-db118382-f05c-4a8d-b3c2-92bfc02edccf.jpg?v=1697651900&width=533",
+        "title": "The Legend of Ram Reimagined",
+        "count": 18,
+        "outOfStock": false
+    },
+    {
+        "name": "The Secret of the Nagas",
+        "price": 179,
+        "category": "Mythology",
+        "image": "https://99bookstores.com/cdn/shop/files/81R5xrntmdL._SL1500.jpg?v=1698494479&width=533",
+        "title": "Myth and Mystery in Shiva Trilogy",
+        "count": 20,
+        "outOfStock": false
+    },
+    {
+        "name": "Sita: Warrior of Mithila",
+        "price": 179,
+        "category": "Mythology",
+        "image": "https://99bookstores.com/cdn/shop/files/1-6abea12c-bb3a-4f22-b1c8-a4fbccb6f006.jpg?v=1697652162&width=533",
+        "title": "Sita as a Fierce Warrior Princess",
+        "count": 14,
+        "outOfStock": false
+    },
+    {
+        "name": "The Immortals of Meluha",
+        "price": 179,
+        "category": "Mythology",
+        "image": "https://99bookstores.com/cdn/shop/files/1-c1911ef9-4ed2-4c92-8631-1ef69dcc61ef.jpg?v=1698494388&width=533",
+        "title": "The Rise of Shiva as a Hero",
+        "count": 22,
+        "outOfStock": false
+    },
+    {
+        "name": "The Oath of the Vayuputra",
+        "price": 219,
+        "category": "Mythology",
+        "image": "https://99bookstores.com/cdn/shop/files/81vZCuRX6-L._SL1500.jpg?v=1698494591&width=533",
+        "title": "Conclusion to the Shiva Trilogy",
+        "count": 16,
+        "outOfStock": false
+    },
+    {
+        "name": "Raavan",
+        "price": 179,
+        "category": "Mythology",
+        "image": "https://99bookstores.com/cdn/shop/files/1-c6ce515f-be6b-4dba-9384-5dec42d7f9a0.jpg?v=1697651965&width=533",
+        "title": "The Demon King’s Untold Side",
+        "count": 13,
+        "outOfStock": false
+    },
+    {
+        "name": "War of Lanka",
+        "price": 239,
+        "category": "Mythology",
+        "image": "https://99bookstores.com/cdn/shop/files/91_T1TAxkKL._SL1500.jpg?v=1698477870&width=533",
+        "title": "Epic Battle of Good vs Evil",
+        "count": 11,
+        "outOfStock": false
+    },
+    {
+        "name": "Mahabharata Unravelled",
+        "price": 199,
+        "category": "Mythology",
+        "image": "https://99bookstores.com/cdn/shop/files/71Y5ON12nDL._SL1500.jpg?v=1698477992&width=533",
+        "title": "Insights into the Mahabharata",
+        "count": 17,
+        "outOfStock": false
+    },
+    {
+        "name": "Ramayana Unravelled",
+        "price": 199,
+        "category": "Mythology",
+        "image": "https://99bookstores.com/cdn/shop/files/91rM9MjNd0L._SL1500.jpg?v=1698478087&width=533",
+        "title": "Demystifying the Ramayana",
+        "count": 15,
+        "outOfStock": false
+    },
+    {
+        "name": "Ashtavakra Gita (Deluxe Edition)",
+        "price": 199,
+        "category": "Mythology",
+        "image": "https://99bookstores.com/cdn/shop/files/71IyDTQiouL._SL1500.jpg?v=1717261873&width=533",
+        "title": "Ancient Wisdom on Self-Realization",
+        "count": 10,
+        "outOfStock": false
+    },
+    {
+        "name": "(COMBO OFFER) Ramayana & Mahabharata Unravelled",
+        "price": 399,
+        "category": "Mythology",
+        "image": "https://99bookstores.com/cdn/shop/products/chainsaw-2023-05-05t132618-046-11zon.jpg?v=1697478845&width=533",
+        "title": "Combined Edition of Two Epics",
+        "count": 8,
+        "outOfStock": false
+    },
+    {
+        "name": "Mahabharata Unravelled PART 2",
+        "price": 199,
+        "category": "Mythology",
+        "image": "https://99bookstores.com/cdn/shop/files/81Xm70DgeFL._SL1500.jpg?v=1710165673&width=533",
+        "title": "Exploring Dharma in the Mahabharata",
+        "count": 12,
+        "outOfStock": false
+    },
+    {
+        "name": "Rama of the Axe: The Epic Saga of Parashurama",
+        "price": 249,
+        "category": "Mythology",
+        "image": "https://99bookstores.com/cdn/shop/files/814E5bSeO_L._SL1500.jpg?v=1710163797&width=533",
+        "title": "Parashurama’s Journey of Justice",
+        "count": 9,
+        "outOfStock": false
+    },
+    {
+        "name": "Combo of 3 book set - The Hidden Hindu 1-2-3",
+        "price": 599,
+        "category": "Mythology",
+        "image": "https://99bookstores.com/cdn/shop/files/nnp9f_512.webp?v=1711738845&width=533",
+        "title": "A Thrilling Mytho-Fiction Trilogy",
+        "count": 6,
+        "outOfStock": false
+    },
+    {
+        "name": "(Hindi) Ram by Amish",
+        "price": 199,
+        "category": "Mythology",
+        "image": "https://99bookstores.com/cdn/shop/files/2dcd9dc2-690b-4e34-8147-1fcc161ba3d1.jpg?v=1697650154&width=533",
+        "title": "Ramayana Retold in Hindi",
+        "count": 14,
+        "outOfStock": false
+    },
+    {
+        "name": "(HINDI) Lanka ka Yuddh (War Of Lanka)",
+        "price": 249,
+        "category": "Mythology",
+        "image": "https://99bookstores.com/cdn/shop/files/91nrrndsqnl-ac-ul210-sr210210.jpg?v=1697650418&width=533",
+        "title": "Clash for Lanka Retold in Hindi",
+        "count": 11,
+        "outOfStock": false
+    },
+    {
+        "name": "HINDI Mahagatha : Puranon se 100 kahaniyan",
+        "price": 219,
+        "category": "Mythology",
+        "image": "https://99bookstores.com/cdn/shop/files/A1HSVE8jBLL._SL1500.jpg?v=1720697190&width=533",
+        "title": "100 Puranic Stories in Hindi",
+        "count": 13,
+        "outOfStock": false
+    },
+    {
+        "name": "The Hidden Hindu",
+        "price": 179,
+        "category": "Mythology",
+        "image": "https://99bookstores.com/cdn/shop/files/81ZI8RyyynL._SL1500.jpg?v=1710171981&width=533",
+        "title": "A Suspenseful Dive into Hindu Lore",
+        "count": 16,
+        "outOfStock": false
+    },
+    {
+        "name": "Nagaon Ka Rahasya (The Secret of the Nagas Hindi)",
+        "price": 219,
+        "category": "Mythology",
+        "image": "https://99bookstores.com/cdn/shop/files/71O0sJsQEvL._SL1500.jpg?v=1700911363&width=533",
+        "title": "Hindi Version of Amish's Bestseller",
+        "count": 18,
+        "outOfStock": false
+    },
+    {
+        "name": "The Naga Warriors 1: Battle of Gokul Vol 1",
+        "price": 179,
+        "category": "Mythology",
+        "image": "https://99bookstores.com/cdn/shop/files/51qWKQW5ZzL.jpg?v=1719917766&width=533",
+        "title": "Warrior Legends of the Nagas",
+        "count": 10,
+        "outOfStock": false
+    },
+    {
+        "name": "The Hidden Hindu Book 3",
+        "price": 189,
+        "category": "Mythology",
+        "image": "https://99bookstores.com/cdn/shop/files/818xDcUv8xL._SL1500.jpg?v=1710172170&width=533",
+        "title": "Final Book in Hidden Hindu Trilogy",
+        "count": 12,
+        "outOfStock": false
+    },
+    {
+        "name": "Samsara: Enter the Valley of the Gods",
+        "price": 219,
+        "category": "Mythology",
+        "image": "https://99bookstores.com/cdn/shop/files/813P4lxRaLL._SL1500.jpg?v=1722933053&width=533",
+        "title": "Fantasy Meets Indian Mythology",
+        "count": 14,
+        "outOfStock": false
+    },
+    {
+        "name": "(Hindi) The Hidden Hindu 1",
+        "price": 179,
+        "category": "Mythology",
+        "image": "https://99bookstores.com/cdn/shop/files/1658136914-800x1256.jpg?v=1729513901&width=533",
+        "title": "Mytho-Fiction in Hindi",
+        "count": 15,
+        "outOfStock": false
+    },
+    {
+        "name": "(Hindi) Ramrajya Hardcover",
+        "price": 379,
+        "category": "Mythology",
+        "image": "https://99bookstores.com/cdn/shop/files/71uExqHm8yL._SL1500.jpg?v=1730612747&width=533",
+        "title": "Hindi Tale of Ideal Governance",
+        "count": 9,
+        "outOfStock": false
+    },
+    {
+        "name": "The Kalki Trilogy (Set of 3 Books)",
+        "price": 599,
+        "category": "Mythology",
+        "image": "https://99bookstores.com/cdn/shop/files/81tmzGnqseL._SL1500.jpg?v=1732718900&width=533",
+        "title": "Avatar of Vishnu's Modern Retelling",
+        "count": 7,
+        "outOfStock": false
+    },
+    {
+        "name": "Hindi Shrimad Bhagwat Gita à¤¶à¥€à¤®à¤¦à¤­à¤—à¤µà¤¤à¤—à¥€à¤¤à¤¾",
+        "price": 399,
+        "category": "Mythology",
+        "image": "https://99bookstores.com/cdn/shop/files/91msEbTletL._SL1500.jpg?v=1733471372&width=533",
+        "title": "Sacred Hindu Text in Hindi",
+        "count": 8,
+        "outOfStock": false
+    },
+    {
+        "name": "Prahlad (Book Three in the Narasimha Trilogy)",
+        "price": 189,
+        "category": "Mythology",
+        "image": "https://99bookstores.com/cdn/shop/files/81b3cXdMfiL._SL1500_7479246c-5e65-48f5-9f68-d495a1b4c25b.jpg?v=1742449035&width=533",
+        "title": "Final Chapter in the Narasimha Saga",
+        "count": 11,
+        "outOfStock": false
+    },
+    {
+        "name": "Hiranyakashyap: The Narasimha Trilogy Book 2",
+        "price": 189,
+        "category": "Mythology",
+        "image": "https://99bookstores.com/cdn/shop/files/71Xggb3mb6L._SL1400.jpg?v=1742449102&width=533",
+        "title": "Story of the Asura King",
+        "count": 13,
+        "outOfStock": false
+    },
+    {
+        "name": "Narasimha",
+        "price": 189,
+        "category": "Mythology",
+        "image": "https://99bookstores.com/cdn/shop/files/7161riQ4lnL._SL1400.jpg?v=1742449204&width=533",
+        "title": "Beginning of the Narasimha Trilogy",
+        "count": 14,
+        "outOfStock": false
+    },
+    {
+        "name": "Myth = Mithya",
+        "price": 189,
+        "category": "Mythology",
+        "image": "https://99bookstores.com/cdn/shop/files/81k90egppRL._SL1500.jpg?v=1744181010&width=533",
+        "title": "Exploring the Metaphor in Mythology",
+        "count": 12,
+        "outOfStock": false
+    },
+    {
+        "name": "I Came Upon a Lighthouse",
+        "price": 159,
+        "category": "Biography & Autobiography",
+        "image": "https://99bookstores.com/cdn/shop/files/81ILDpQVcxL._SL1500.jpg?v=1700551650&width=533",
+        "title": "Memoir of Unexpected Encounters",
+        "count": 10,
+        "outOfStock": false
+    },
+    {
+        "name": "Can't Hurt Me (Paperback)",
+        "price": 199,
+        "category": "Biography & Autobiography",
+        "image": "https://99bookstores.com/cdn/shop/files/613_WUG7CGL._SL1360.jpg?v=1698478351&width=533",
+        "title": "Master Your Mind and Defy the Odds",
+        "count": 15,
+        "outOfStock": false
+    },
+    {
+        "name": "Shoe Dog",
+        "price": 199,
+        "category": "Biography & Autobiography",
+        "image": "https://99bookstores.com/cdn/shop/files/61mxjI8qcxL._SL1500.jpg?v=1698478202&width=533",
+        "title": "Memoir by the Creator of Nike",
+        "count": 18,
+        "outOfStock": false
+    },
+    {
+        "name": "Jail Diary of Bhagat Singh",
+        "price": 179,
+        "category": "Biography & Autobiography",
+        "image": "https://99bookstores.com/cdn/shop/files/81AToth2o_L._SL1500.jpg?v=1700031923&width=533",
+        "title": "Revolutionary Thoughts from Prison",
+        "count": 12,
+        "outOfStock": false
+    },
+    {
+        "name": "The Autobiography of a Yogi",
+        "price": 299,
+        "category": "Biography & Autobiography",
+        "image": "https://99bookstores.com/cdn/shop/files/WhatsAppImage2024-09-07at2.07.07PM.jpg?v=1725698248&width=533",
+        "title": "Spiritual Classic by Paramahansa Yogananda",
+        "count": 14,
+        "outOfStock": false
+    },
+    {
+        "name": "Unfinished: A Memoir",
+        "price": 199,
+        "category": "Biography & Autobiography",
+        "image": "https://99bookstores.com/cdn/shop/files/1-fb50ae4f-b6e3-4293-bc4a-5ecddcde89fb.jpg?v=1698494736&width=533",
+        "title": "Personal Reflections by Priyanka Chopra",
+        "count": 16,
+        "outOfStock": false
+    },
+    {
+        "name": "The Man Who Thought Different: Steve Jobs",
+        "price": 189,
+        "category": "Biography & Autobiography",
+        "image": "https://99bookstores.com/cdn/shop/files/download-2024-04-14T085416.507.jpg?v=1713065117&width=533",
+        "title": "A Biography of Steve Jobs",
+        "count": 13,
+        "outOfStock": false
+    },
+    {
+        "name": "Elon Musk (Hardcover) and Wing of Fire Combo",
+        "price": 499,
+        "category": "Biography & Autobiography",
+        "image": "https://99bookstores.com/cdn/shop/files/Subheading.png?v=1717174475&width=533",
+        "title": "Innovation and Leadership Duo Pack",
+        "count": 9,
+        "outOfStock": false
+    },
+    {
+        "name": "Hardcover Elon Musk",
+        "price": 499,
+        "category": "Biography & Autobiography",
+        "image": "https://99bookstores.com/cdn/shop/files/6dfc6d0d-e16b-41ef-a77f-89ef084d98f8.jpg?v=1698214345&width=533",
+        "title": "Entrepreneurial Journey of Elon Musk",
+        "count": 7,
+        "outOfStock": false
+    },
+    {
+        "name": "Poor Charlie’s Almanack",
+        "price": 249,
+        "category": "Biography & Autobiography",
+        "image": "https://99bookstores.com/cdn/shop/files/819wrVmXs2L._SL1500.jpg?v=1714816494&width=533",
+        "title": "Wit and Wisdom of Charlie Munger",
+        "count": 11,
+        "outOfStock": false
+    },
+    {
+        "name": "My Experiments with Truth - Mahatma Gandhi",
+        "price": 199,
+        "category": "Biography & Autobiography",
+        "image": "https://99bookstores.com/cdn/shop/files/gandhi.jpg?v=1710168340&width=533",
+        "title": "Autobiography of Mahatma Gandhi",
+        "count": 15,
+        "outOfStock": false
+    },
+    {
+        "name": "Becoming",
+        "price": 279,
+        "category": "Biography & Autobiography",
+        "image": "https://99bookstores.com/cdn/shop/files/81ddwazxtrl.jpg?v=1698494820&width=533",
+        "title": "Memoir by Michelle Obama",
+        "count": 17,
+        "outOfStock": false
+    },
+    {
+        "name": "Discovery of India",
+        "price": 399,
+        "category": "Biography & Autobiography",
+        "image": "https://99bookstores.com/cdn/shop/files/61zZzKlLleL._SL1000.jpg?v=1700027125&width=533",
+        "title": "Historical Memoir by Jawaharlal Nehru",
+        "count": 10,
+        "outOfStock": false
+    },
+    {
+        "name": "Will: The Sunday Times Bestselling Autobiography",
+        "price": 349,
+        "category": "Biography & Autobiography",
+        "image": "https://99bookstores.com/cdn/shop/files/91C0eiPBxLL._SL1500.jpg?v=1698252111&width=533",
+        "title": "Life Story of Will Smith",
+        "count": 8,
+        "outOfStock": false
+    },
+    {
+        "name": "The Light We Carry",
+        "price": 199,
+        "category": "Biography & Autobiography",
+        "image": "https://99bookstores.com/cdn/shop/files/43286313-ca2a-4e29-8820-e1c2943c9cca.jpg?v=1698494945&width=533",
+        "title": "Michelle Obama's Follow-Up to 'Becoming'",
+        "count": 12,
+        "outOfStock": false
+    },
+    {
+        "name": "Issac Walton's Elon Musk",
+        "price": 349,
+        "category": "Biography & Autobiography",
+        "image": "https://99bookstores.com/cdn/shop/files/71T1I1ra7iL._AC_UY218.jpg?v=1717175167&width=533",
+        "title": "Visionary Leader in Tech and Space",
+        "count": 9,
+        "outOfStock": false
+    },
+    {
+        "name": "Elon Musk by Ashlee Vance",
+        "price": 249,
+        "category": "Biography & Autobiography",
+        "image": "https://99bookstores.com/cdn/shop/files/81KAg5fnOhL._SL1500.jpg?v=1717511337&width=533",
+        "title": "Definitive Biography of Elon Musk",
+        "count": 11,
+        "outOfStock": false
+    },
+    {
+        "name": "Born a Crime: Stories from a South African Childhood",
+        "price": 219,
+        "category": "Biography & Autobiography",
+        "image": "https://99bookstores.com/cdn/shop/files/816Q8VrYnZL._SL1500.jpg?v=1716923302&width=533",
+        "title": "Trevor Noah's Life Before Comedy",
+        "count": 14,
+        "outOfStock": false
+    },
+    {
+        "name": "Broken Promises: Caste, Crime and Politics in Bihar",
+        "price": 349,
+        "category": "Biography & Autobiography",
+        "image": "https://99bookstores.com/cdn/shop/files/81amZdaSZJL._SL1500.jpg?v=1722265552&width=533",
+        "title": "A Journey Through Political Reality",
+        "count": 10,
+        "outOfStock": false
+    }
+]
